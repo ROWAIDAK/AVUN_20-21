@@ -1,0 +1,18 @@
+﻿ fake news;https://schema.org/ClaimReview
+checks facts;https://schema.org/ReportageNewsArticle
+ reverse search;https://schema.org/Property
+claim;https://schema.org/Claim
+;https://schema.org/HealthInsurancePlan
+Misinformation;https://schema.org/MediaReview
+;https://meta.schema.org/MediaReview
+fact-checking;https://schema.org/ClaimReview
+;http://blog.schema.org/2017/08/schemaorg-33-news-fact-checking.html
+Ineligible news,;https://schema.org/Offer
+False texts ;https://schema.org/PropertyValueSpecification
+;https://schema.org/CreativeWork
+;https://schema.org/ActionAccessSpecification
+;https://schema.org/Person
+;https://schema.org/Boolean
+Confused news;https://schema.org/ItemList
+;https://schema.org/Organization
+;https://schema.org/docs/releases.html
